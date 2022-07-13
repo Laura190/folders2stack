@@ -2,7 +2,9 @@
 Combine folders with individual z stacks over time into hyperstack
 
 ## Parameters
-Input: Directory containing folders, folder to save final stack, name for final stack
+Input Directory: Directory containing the folders
+Output Directory: Location to save final stack
+Stack Name: Name for final stack
 
 ## Usage
 In ImageJ/Fiji: Plugins > Macros > Edit and select the macro "folders2stack.ijm". \
